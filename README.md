@@ -17,4 +17,4 @@ git branch -M main
 git remote add origin https://github.com/Bosco-Muthini/PLPBasicGitAssignment.git
 git push -u origin main
 
-To make the changes, one has to git pull the repository the git push.
+To make the changes, one has to git pull the repository then git add and git push.
